@@ -1,0 +1,155 @@
+==== CPU Usage ====
+cpu.user: 0%
+cpu.system: 0%
+cpu.idle: 100%
+
+==== Memory Usage ====
+memory.used: 597Mi
+memory.free: 7.0Gi
+memory.total: 7.6Gi
+memory.usage_pct: 7.66%
+
+==== Disk Usage ====
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 0
+disk.avail: 3.9G
+disk.usage_pct: 0%
+disk.mountpoint: /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 4.0K
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /mnt/wsl
+
+disk.filesystem: drivers
+disk.size: 238G
+disk.used: 215G
+disk.avail: 24G
+disk.usage_pct: 91%
+disk.mountpoint: /usr/lib/wsl/drivers
+
+disk.filesystem: /dev/sdd
+disk.size: 1007G
+disk.used: 3.1G
+disk.avail: 953G
+disk.usage_pct: 1%
+disk.mountpoint: /
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 76K
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /mnt/wslg
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 0
+disk.avail: 3.9G
+disk.usage_pct: 0%
+disk.mountpoint: /usr/lib/wsl/lib
+
+disk.filesystem: rootfs
+disk.size: 3.9G
+disk.used: 2.4M
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /init
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 508K
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /run
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 0
+disk.avail: 3.9G
+disk.usage_pct: 0%
+disk.mountpoint: /run/lock
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 0
+disk.avail: 3.9G
+disk.usage_pct: 0%
+disk.mountpoint: /run/shm
+
+disk.filesystem: tmpfs
+disk.size: 4.0M
+disk.used: 0
+disk.avail: 4.0M
+disk.usage_pct: 0%
+disk.mountpoint: /sys/fs/cgroup
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 76K
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /mnt/wslg/versions.txt
+
+disk.filesystem: none
+disk.size: 3.9G
+disk.used: 76K
+disk.avail: 3.9G
+disk.usage_pct: 1%
+disk.mountpoint: /mnt/wslg/doc
+
+disk.filesystem: C:
+disk.size: 238G
+disk.used: 215G
+disk.avail: 24G
+disk.usage_pct: 91%
+disk.mountpoint: /mnt/c
+
+disk.filesystem: D:
+disk.size: 240G
+disk.used: 214G
+disk.avail: 26G
+disk.usage_pct: 90%
+disk.mountpoint: /mnt/d
+
+disk.filesystem: tmpfs
+disk.size: 780M
+disk.used: 16K
+disk.avail: 780M
+disk.usage_pct: 1%
+disk.mountpoint: /run/user/1000
+
+==== System Uptime ====
+uptime: up 1 hour, 39 minutes
+
+==== Top 5 Processes by CPU Usage ====
+     52  0.0 systemd-journal
+     94  0.0 systemd-udevd
+      1  0.0 systemd
+    166  0.0 wsl-pro-service
+    105  0.0 systemd-timesyn
+
+==== Top 5 Processes by Memory Usage ====
+    231  0.2 unattended-upgr
+     52  0.2 systemd-journal
+    166  0.2 wsl-pro-service
+      1  0.1 systemd
+    104  0.1 systemd-resolve
+
+==== OS Version ====
+OS: Ubuntu 24.04.2 LTS
+
+==== Load Average ====
+load_average.1min: 0.00
+load_average.5min: 0.00
+load_average.15min: 0.00
+
+==== Logged In Users ====
+user: kevinrizki, sessions: 2
+
+==== Failed Login Attempts (last 24 hours) ====
+user: btmp, failed_attempts: 1
+
